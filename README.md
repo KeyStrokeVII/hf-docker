@@ -1,9 +1,9 @@
 ---
 title: Iptv
-emoji: 🔥
-colorFrom: red
-colorTo: red
+emoji: 📉
+colorFrom: pink
+colorTo: indigo
 sdk: docker
 pinned: false
-short_description: Iptv
+short_description: iptv
 ---
